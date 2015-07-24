@@ -42,15 +42,15 @@ msgstr "Comentarios"
 msgid "Trackbacks &amp; Pingbacks"
 msgstr "Trackbacks y Pingbacks"
 
-#: ../footer.php:67
+#: ../footer.php:76
 msgid "All Rights Reserved."
 msgstr "Todos los derechos reservados"
 
-#: ../footer.php:73
+#: ../footer.php:82
 msgid "Powered by"
 msgstr "Impulsado por"
 
-#: ../footer.php:73
+#: ../footer.php:82
 msgid "Theme by"
 msgstr "Diseñado por"
 
@@ -70,11 +70,11 @@ msgstr "Escriba un texto y pulse Enter"
 msgid "Expand Sidebar"
 msgstr "Expandir Barra Lateral"
 
-#: ../sidebar-2.php:10
+#: ../sidebar-2.php:11
 msgid "More"
 msgstr "Extra:"
 
-#: ../sidebar.php:14
+#: ../sidebar.php:15
 msgid "Follow:"
 msgstr "Sígueme:"
 
@@ -106,43 +106,47 @@ msgstr "Comentarios Recientes"
 msgid "Tags"
 msgstr "Etiquetas"
 
-#: ../functions/widgets/alx-tabs.php:185
+#: ../functions/widgets/alx-tabs.php:187
 msgid "says:"
 msgstr "dice:"
 
-#: ../inc/page-title.php:19
+#: ../inc/page-title.php:23
+msgid "Search result"
+msgstr "Resultado de la Búsqueda"
+
+#: ../inc/page-title.php:25
 msgid "Search results"
 msgstr "Resultados de la Búsqueda"
 
-#: ../inc/page-title.php:22
+#: ../inc/page-title.php:31
 msgid "Error 404."
 msgstr "Error 404"
 
-#: ../inc/page-title.php:22
+#: ../inc/page-title.php:31
 msgid "Page not found!"
 msgstr "No se ha encontrado la página"
 
-#: ../inc/page-title.php:26
+#: ../inc/page-title.php:35
 msgid "Author:"
 msgstr "Autor:"
 
-#: ../inc/page-title.php:29
+#: ../inc/page-title.php:38
 msgid "Category:"
 msgstr "Categoría:"
 
-#: ../inc/page-title.php:32
+#: ../inc/page-title.php:41
 msgid "Tagged:"
 msgstr "Etiquetado:"
 
-#: ../inc/page-title.php:35
+#: ../inc/page-title.php:44
 msgid "Daily Archive:"
 msgstr "Archivo Diario:"
 
-#: ../inc/page-title.php:38
+#: ../inc/page-title.php:47
 msgid "Monthly Archive:"
 msgstr "Archivo Mensual:"
 
-#: ../inc/page-title.php:41
+#: ../inc/page-title.php:50
 msgid "Yearly Archive:"
 msgstr "Archivo Anual:"
 
